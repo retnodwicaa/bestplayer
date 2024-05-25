@@ -1,0 +1,95 @@
+{
+    "result": [
+      {
+        "no": "1",
+        "name": "Lionel Messi",
+        "birth_date": "1987-06-24",
+        "Position": "Forward",
+        "International": "Argentina",
+        "Team": "Paris Saint-Germain",
+        "Poster": "https://cdn.britannica.com/35/238335-050-2CB2EB8A/Lionel-Messi-Argentina-Netherlands-World-Cup-Qatar-2022.jpg"
+      },
+      {
+        "no": "2",
+        "name": "Cristiano Ronaldo",
+        "birth_date": "1985-02-05",
+        "Position": "Forward",
+        "International": "Portugal",
+        "Team": "Al-Nassr",
+        "Poster": "https://i.pinimg.com/736x/7c/62/d1/7c62d1e1ee4b78b0180a61b6750077bb.jpg"
+      },
+      {
+        "no": "3",
+        "name": "Robert Lewandowski",
+        "birth_date": "1988-08-21",
+        "Position": "Forward",
+        "International": "Poland",
+        "Team": "Barcelona",
+        "Poster": "https://s.hs-data.com/bilder/spieler/gross/119750.jpg"
+      },
+      {
+        "no": "4",
+        "name": "Kevin De Bruyne",
+        "birth_date": "1991-06-28",
+        "Position": "Midfielder",
+        "International": "Belgium",
+        "Team": "Manchester City",
+        "Poster": "https://prod-media.beinsports.com/image/1704650408650_377fdcbc-25d3-46a5-b681-d131aaf4a1e5.jpg"
+      },
+      {
+        "no": "5",
+        "name": "Neymar Jr.",
+        "birth_date": "1992-02-05",
+        "Position": "Forward",
+        "International": "Brazil",
+        "Team": "Paris Saint-Germain",
+        "Poster": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Neymar_Jr._with_Al_Hilal%2C_3_October_2023_-_03_%28cropped%29.jpg"
+      },
+      {
+        "no": "6",
+        "name": "Kylian Mbappé",
+        "birth_date": "1998-12-20",
+        "Position": "Forward",
+        "International": "France",
+        "Team": "Paris Saint-Germain",
+        "Poster": "https://cdn-1.timesmedia.co.id/images/2024/05/24/Kylian-Mbappe.jpg"
+      },
+      {
+        "no": "7",
+        "name": "Mohamed Salah",
+        "birth_date": "1992-06-15",
+        "Position": "Forward",
+        "International": "Egypt",
+        "Team": "Liverpool",
+        "Poster": "https://akcdn.detik.net.id/community/media/visual/2024/03/15/mohamed-salah-bikin-rekor-di-liverpool-1_169.jpeg?w=600&q=90"
+      },
+      {
+        "no": "8",
+        "name": "Virgil van Dijk",
+        "birth_date": "1991-07-08",
+        "Position": "Defender",
+        "International": "Netherlands",
+        "Team": "Liverpool",
+        "Poster": "https://external-preview.redd.it/virgil-van-dijk-is-considering-his-future-at-liverpool-and-v0-OmVX5hSPfRhEvavo_DWVtnn2LPbHIQHio03YPSJsOd4.jpg?auto=webp&s=f75957c9995299db8c3d5571102601a609065d8f"
+      },
+      {
+        "no": "9",
+        "name": "Sergio Ramos",
+        "birth_date": "1986-03-30",
+        "Position": "Defender",
+        "International": "Spain",
+        "Team": "Paris Saint-Germain",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzkwNDQ3Y2UtN2MxMy00OGZjLWE5MzItNzU4YjJlMDAwYTg3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "no": "10",
+        "name": "Luka Modrić",
+        "birth_date": "1985-09-09",
+        "Position": "Midfielder",
+        "International": "Croatia",
+        "Team": "Real Madrid",
+        "Poster": "https://imageio.forbes.com/specials-images/imageserve/65d47bae988113674c790633/Real-Madrid-CF-v-Girona-FC---LaLiga-EA-Sports/960x0.jpg?format=jpg&width=960"
+      }
+    ]
+  }
+  
